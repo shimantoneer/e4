@@ -1,4 +1,4 @@
 <?php
-header("Location: https://www.rockmans.com.au/about-us");
+header("Location: http://www.werzalitusa.com/table-tops/");
 die();
 ?>
